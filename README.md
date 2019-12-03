@@ -4,8 +4,8 @@ This project's goal was to build a simple, multivariate linear regression model 
 
 KC_House_sales_analysis.ipynb - main technical notebook that contains our exploratory data analysis, the data visualization, the models we built and all of our clean notes. 
 
-kc_house_data.csv - original dataset provided
-column_names.md - data dictionary
-clean_data.csv - dataset after cleaning
-Data Clearning.ipynb - (rough draft) jupypter notebook containing data cleaning operations 
-presentation.pdf - final presentation to stakeholders (Flatiron cohort and instructors)
+- kc_house_data.csv - original dataset provided
+- column_names.md - data dictionary
+- clean_data.csv - dataset after cleaning
+- Data Clearning.ipynb - (rough draft) jupypter notebook containing data cleaning operations 
+- presentation.pdf - final presentation to stakeholders (Flatiron cohort and instructors)
